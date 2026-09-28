@@ -1,0 +1,26 @@
+# QNX / C build files
+build/
+Debug/
+Release/
+*.o
+*.d
+*.a
+
+# QNX IDE / workspace files
+.metadata/
+.settings/
+.project
+.cproject
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
