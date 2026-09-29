@@ -301,6 +301,17 @@ Normal conditions
         ↓
 Maintain vehicle state
 ```
+## Dashboard Output
+
+The Python dashboard visualizes the simulated actuator telemetry received from the vehicle control pipeline.
+
+### Throttle and Steering Telemetry
+
+![Dashboard telemetry - 50 samples](docs/dashboard_telemetry_50_samples.png)
+
+### Sample Dashboard Run
+
+![Dashboard telemetry - sample run](docs/dashboard_telemetry_sample_run.png)
 
 ## Learning Objectives
 
