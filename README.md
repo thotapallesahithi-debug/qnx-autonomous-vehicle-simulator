@@ -1,4 +1,5 @@
 # QNX Autonomous Vehicle Control Simulator
+**Project Period:** August – September 2026
 
 A software-in-the-loop autonomous vehicle control simulation built using the **QNX Neutrino Real-Time Operating System**. The project models a simplified vehicle control pipeline in which sensor data is processed through independent QNX processes for planning, control, and actuation, with a Python dashboard for real-time visualization.
 
